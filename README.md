@@ -10,9 +10,11 @@
 
 
 ### 经典学习资料推荐 ###     
-* The oxford english dictionary 全套20册，估值2w    
+* 单词用苹果电脑牛津词典和en.oxforddictionaries.com 查询    
 * 哈利波特（帮你练就地道动听的伦敦腔）     
 * 美剧 Lie to me （别对我说谎）     
 * Documentary （纪录片，比如：王朝）     
 * 美国当代语料库 2w 词     
-  
+* bbc.com 英国新闻        
+* abc.com 美国新闻      
+* www.economist.com 经济学人      
